@@ -1,6 +1,6 @@
 # 🎨 Project-HTML5-CSS3
 
-A sleek, modern, and fully responsive web layout built from scratch. This project focuses on utilizing pure, modern semantic HTML5 markup and custom CSS3 styling to deliver a pixel-perfect user experience across all devices without relying on any external CSS frameworks.
+A sleek, modern, and fixed-layout web interface built from scratch. This project focuses on utilizing pure semantic HTML5 markup and custom CSS3 styling to deliver a pixel-perfect, static user experience tailored for desktop displays, without relying on any external CSS frameworks.
 
 🎨 **Live Demo:** [View Project-HTML5-CSS3 Live](https://ahmednagahms-dot.github.io/Project-HTML5-CSS3/)
 
@@ -8,10 +8,10 @@ A sleek, modern, and fully responsive web layout built from scratch. This projec
 
 ## 🚀 Features
 
-- **🧱 Semantic HTML5:** Built using clean, modern, and accessible HTML5 tags for optimized SEO and structure.
-- **🎨 Custom CSS3 Styling:** Crafted with native CSS layout techniques such as **Flexbox** and **CSS Grid** for advanced layouts.
-- **📱 Responsive Web Design (RWD):** Uses CSS Media Queries to ensure a flawless experience on mobiles, tablets, and desktop displays.
-- **⚡ High Performance:** Ultra-lightweight codebase with fast loading times due to zero dependencies.
+- **🧱 Semantic HTML5:** Built using clean, modern, and accessible HTML5 tags for structural clarity.
+- **🎨 Custom CSS3 Styling:** Crafted with native CSS techniques to achieve precise layout alignment and typography control.
+- **📐 Fixed Desktop Layout:** Engineered specifically as a static, pixel-perfect layout designed for desktop resolutions.
+- **⚡ High Performance:** Ultra-lightweight codebase with instant loading times due to zero dependencies or external scripts.
 
 ---
 
@@ -29,6 +29,6 @@ Here are the core styling and markup technologies used to create this layout:
 ```text
 Project-HTML5-CSS3/
 │
-├── index.html          # Main landing page and semantic layout
-├── css/                # Custom CSS files (Layouts, responsiveness, and typography)
+├── index.html          # Main landing page and structural markup
+├── css/                # Custom CSS files for styling and typography
 └── img/                # Media assets, optimized images, and background graphics
